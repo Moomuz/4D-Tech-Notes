@@ -1,0 +1,7 @@
+#24
+Apple clang version 15.0.0 (clang-1500.0.40.1)
+Target: arm64-apple-darwin23.1.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk

@@ -1,0 +1,26 @@
+/* ImportedDynamicSheets.css file */
+
+/* This "dynamic" style sheet will only apply to the "ImportedDynamicSheets"
+   form. It mimics the look of the light mode styling done in the 
+   previous example. 
+*/
+
+/* @import "secondaryStyleSheet.css"; */
+
+.myClass {
+	stroke: royalblue;
+}
+
+.labels, #title {
+	fontWeight: bold;
+}
+
+#title {
+	fontSize: 22;
+}
+
+#saveButton {
+	style: roundedBevel;
+}
+
+

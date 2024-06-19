@@ -1,0 +1,221 @@
+/* styleSheets.css file */ 
+
+/* 
+   This is the general default style sheet that will apply styling to 
+   4D form elements on both Windows and Mac platforms. It includes 
+   multiple CSS rules to apply styling to both the "Selector Types" and 
+   "CSS Media Query" forms. The CSS rules below are ordered from most 
+   to least selector type priority. You may add, edit, or comment out 
+   as many declarations as you wish. Then, save the file and navigate back 
+   to the form editor to review the changes.
+*/
+
+/* Selector Type Form */
+
+/* Object Name Selector Type */
+
+#sampleText {
+	/* add your declarations here */
+
+	/* example */
+	stroke: orchid;  /* using CSS color constant */
+	fontWeight: bold;
+	fontSize: 16;
+   borderStyle: dotted;
+}
+
+#rect {
+	/* add your declarations here */
+
+	/* example */
+	stroke: #F27066;  /* using hexdecimal color value (salmon color) */
+	fill: #FCB56A; /* cream orange */
+	strokeWidth: 3;
+	borderRadius: 10;
+}
+
+#clickMe {
+	/* add your declarations here */
+
+	stroke: rgb(44, 130, 100); /* using RGB color value (emerald green) */
+	style: flat;
+}
+
+#radio1, #radio3 {
+	/* add your declarations here */
+	stroke: royalblue;
+	fontFamily: Times New Roman;
+	fontSize: 20;
+	fontStyle: italic;
+}
+
+#radio2 {
+	/* add your declarations here */
+
+	/* intentionally left blank to show how you may configure 
+	   individual radio buttons */
+}
+
+/* Specific Attribute Selector Type */
+/* 
+   For this section, test each CSS rule to see how the specified
+   values in each selector affects whether or not the text element
+   gets styled or not. A simple stroke color will be used for
+   demonstration purposes. 
+*/
+
+/* TEST 1: [attribute] selector */
+[text] { /* Note: this will affect ALL text form elements*/
+	/* uncomment me to test!
+	stroke: #FF3681;
+	*/
+}
+
+/* TEST 2: [attribute=value] selector */
+[text="Hello world! My name is John Doe."] { /* would apply styling */
+	/* uncomment me to test!
+	stroke: #FF3681;
+	*/
+}
+
+[text="Hello world! My name is John"] { /* would NOTapply styling */
+	/* uncomment me to test!
+	stroke: #FF3681;
+	*/
+}
+
+/* TEST 3: [attribute~=value] selector */
+[text~=Hello] { /* would apply styling */
+	/* uncomment me to test!
+	stroke: #FF3681;
+	*/
+}
+
+[text~=He] { /* would NOT apply styling */
+	/* uncomment me to test!
+	stroke: #FF3681;
+	*/
+}
+
+/* TEST 4: [attribute|=value] selector */
+[text|=Hello] { /* would apply styling */
+	/* uncomment me to test!
+	stroke: #FF3681;
+	*/
+}
+
+[text|=Hel] { /* would ALSO apply styling */
+	/* uncomment me to test!
+	stroke: #FF3681;
+	*/
+}
+
+/* Class Selector Type */
+.myClass {
+	/* add declarations here */
+
+	/* uncomment me to test! 
+	stroke: #5CA4FF;
+	fontFamily: impact;  
+	fill: aliceblue; 
+	*/
+
+	/* "stroke" declaration only affects form elements with "Fill Color" property */
+	/* "fontFamily" declaration only affects form elements with text */
+}
+
+/* Object Type Selector Type */
+input {
+	/* add declarations here */
+
+	/* uncomment me to test! 
+	stroke: red;
+	fill: black;
+	*/
+}
+
+oval {
+	/* add declarations here */
+
+	/* uncomment me to test! 
+	stroke: red;
+	fill: black;
+	*/
+}
+
+ruler {
+	/* add declarations here */
+
+	/* uncomment me to test! 
+	borderStyle: dotted;
+	*/
+}
+
+checkbox {
+	/* add declarations here */
+
+	/* uncomment me to test! 
+	stroke: red;
+	fill: black;
+	fontWeight: bold;
+	style: flat;
+	*/
+}
+
+/* All Objects Selector Type */
+* {
+	/* add declarations here */
+
+	/* uncomment me to test! 
+	fontFamily: baskerville;
+	fontSize: 13;
+	*/
+}
+
+
+/* CSS Media Query Form */
+/* The styling declared here pertains to the light/dark appearance
+   modes on Mac platforms. This feature does not work for Windows.
+*/
+
+/* light mode */
+/* uncomment me to test!
+@media (prefers-color-scheme: light) {
+	text, input, button, groupBox {
+		stroke: royalblue;
+	}
+
+	.labels, #title {
+		fontWeight: bold;
+	}
+
+	#title {
+		fontSize: 22;
+	}
+
+	#saveButton {
+		style: roundedBevel;
+	}
+}
+*/
+
+/* dark mode */
+/* uncomment me to test!
+@media (prefers-color-scheme: dark) {
+	text, input, button, groupBox {
+		stroke: red;
+	}
+
+	.labels, #title {
+		fontWeight: bold;
+	}
+
+	#title {
+		fontSize: 22;
+	}
+
+	#saveButton {
+		style: roundedBevel;
+	}
+}
+*/

@@ -1,0 +1,166 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 0,
+	"bottomMargin": 0,
+	"events": [],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Group Box": {
+					"type": "groupBox",
+					"text": "Sample Form",
+					"top": 0,
+					"left": 0,
+					"width": 535,
+					"height": 499,
+					"class": "myClass"
+				},
+				"title": {
+					"type": "text",
+					"text": "Basic Contact Information",
+					"top": 45,
+					"left": 141,
+					"width": 275,
+					"height": 26,
+					"class": "myClass"
+				},
+				"Text1": {
+					"type": "text",
+					"text": "First Name:",
+					"top": 106,
+					"left": 74,
+					"width": 131,
+					"height": 16,
+					"class": "myClass"
+				},
+				"Input": {
+					"type": "input",
+					"left": 223,
+					"top": 104,
+					"width": 254,
+					"height": 17,
+					"class": "myClass"
+				},
+				"Text2": {
+					"type": "text",
+					"text": "Last Name:",
+					"top": 143,
+					"left": 74,
+					"width": 131,
+					"height": 16,
+					"class": "myClass"
+				},
+				"Input1": {
+					"type": "input",
+					"left": 223,
+					"top": 141,
+					"width": 254,
+					"height": 17,
+					"class": "myClass"
+				},
+				"Text3": {
+					"type": "text",
+					"text": "E-mail:",
+					"top": 180,
+					"left": 74,
+					"width": 131,
+					"height": 16,
+					"class": "myClass"
+				},
+				"Input2": {
+					"type": "input",
+					"left": 223,
+					"top": 178,
+					"width": 254,
+					"height": 17,
+					"class": "myClass"
+				},
+				"Text4": {
+					"type": "text",
+					"text": "Phone Number:",
+					"top": 218,
+					"left": 74,
+					"width": 131,
+					"height": 16,
+					"class": "myClass"
+				},
+				"Input3": {
+					"type": "input",
+					"left": 223,
+					"top": 216,
+					"width": 254,
+					"height": 17,
+					"class": "myClass"
+				},
+				"Text5": {
+					"type": "text",
+					"text": "Full Address:",
+					"top": 255,
+					"left": 74,
+					"width": 131,
+					"height": 16,
+					"class": "myClass"
+				},
+				"Input4": {
+					"type": "input",
+					"left": 223,
+					"top": 253,
+					"width": 254,
+					"height": 65,
+					"class": "myClass"
+				},
+				"Text7": {
+					"type": "text",
+					"text": "Notes:",
+					"top": 340,
+					"left": 74,
+					"width": 131,
+					"height": 16,
+					"class": "myClass"
+				},
+				"Input5": {
+					"type": "input",
+					"left": 223,
+					"top": 338,
+					"width": 254,
+					"height": 65,
+					"class": "myClass"
+				},
+				"saveButton": {
+					"type": "button",
+					"text": "Save",
+					"top": 423,
+					"left": 380,
+					"width": 97,
+					"height": 23,
+					"events": [
+						"onClick"
+					],
+					"class": "myClass"
+				}
+			}
+		}
+	],
+	"geometryStamp": 35,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	}
+}

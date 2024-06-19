@@ -1,0 +1,7 @@
+{
+   "macros": {
+      "Open Text Style Editor": {
+       "class": "openTextStyleDialog"
+     }
+   }
+}

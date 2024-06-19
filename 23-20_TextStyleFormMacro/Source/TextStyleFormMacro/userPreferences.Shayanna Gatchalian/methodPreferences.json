@@ -1,0 +1,416 @@
+{
+	"Sources/Classes/openFontStyleDialog.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 31,
+		"lastSelectedLine": 31,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-16T00:12:37.597Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-12T04:13:35.525Z"
+	},
+	"Sources/Forms/FontStyle/method.4dm": {
+		"startSelection": 3,
+		"endSelection": 3,
+		"firstSelectedLine": 68,
+		"lastSelectedLine": 68,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T17:00:20.728Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/FontSizeComboBox.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-13T23:27:59.234Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-13T23:27:59.237Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/FontsListBox.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T16:43:35.993Z"
+	},
+	"Trash/Methods/(Method1).4dm": {
+		"startSelection": 66,
+		"endSelection": 66,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-08T23:36:26.767Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Input.4dm": {
+		"startSelection": 50,
+		"endSelection": 50,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-08T23:48:34.168Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Input3.4dm": {
+		"startSelection": 23,
+		"endSelection": 23,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-09T00:03:43.091Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/ColorInput.4dm": {
+		"startSelection": 0,
+		"endSelection": 9,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-09T00:19:10.519Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/OffScreenInput.4dm": {
+		"startSelection": 47,
+		"endSelection": 47,
+		"firstSelectedLine": 18,
+		"lastSelectedLine": 18,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-13T18:42:50.275Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button5.4dm": {
+		"startSelection": 9,
+		"endSelection": 0,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-11T22:58:02.438Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/BoldCheckBox.4dm": {
+		"startSelection": 37,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T16:45:58.132Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/UnderlineCheckBox.4dm": {
+		"startSelection": 43,
+		"endSelection": 43,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T16:46:48.859Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/ItalicCheckBox.4dm": {
+		"startSelection": 40,
+		"endSelection": 40,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T16:46:40.907Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button6.4dm": {
+		"startSelection": 39,
+		"endSelection": 39,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-12T17:54:44.951Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/ColorButton.4dm": {
+		"startSelection": 71,
+		"endSelection": 71,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": ""
+	},
+	"Sources/Methods/calcFontStyleInt.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-17T17:46:42.556Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/TabControl.4dm": {
+		"startSelection": 50,
+		"endSelection": 50,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-13T22:27:53.389Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/List Box.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-13T22:28:50.755Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button4.4dm": {
+		"startSelection": 27,
+		"endSelection": 27,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-13T22:48:14.638Z"
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Check Box.4dm": {
+		"startSelection": 52,
+		"endSelection": 52,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T16:44:21.998Z"
+	},
+	"Sources/Methods/hexToRGBInt.4dm": {
+		"startSelection": 37,
+		"endSelection": 37,
+		"firstSelectedLine": 32,
+		"lastSelectedLine": 32,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-27T16:16:24.054Z"
+	},
+	"Sources/Forms/TextStyle/method.4dm": {
+		"startSelection": 56,
+		"endSelection": 56,
+		"firstSelectedLine": 139,
+		"lastSelectedLine": 139,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-28T19:44:25.665Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/SampleText.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T17:32:08.167Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/DarkBackgroundCheckbox.4dm": {
+		"startSelection": 59,
+		"endSelection": 59,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-17T19:28:22.677Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/FontsListBox.4dm": {
+		"startSelection": 80,
+		"endSelection": 80,
+		"firstSelectedLine": 13,
+		"lastSelectedLine": 13,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-17T19:25:17.169Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/ItalicCheckBox.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T16:46:40.907Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/Button4.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T19:05:10.566Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/FavoritesDropdownMenu.4dm": {
+		"startSelection": 14,
+		"endSelection": 14,
+		"firstSelectedLine": 20,
+		"lastSelectedLine": 20,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T19:27:12.094Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/Input.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T19:31:55.471Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/FavoritesButton.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T19:05:10.566Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/BoldCheckBox.4dm": {
+		"startSelection": 19,
+		"endSelection": 35,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T16:45:58.132Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/Button3.4dm": {
+		"startSelection": 73,
+		"endSelection": 73,
+		"firstSelectedLine": 45,
+		"lastSelectedLine": 45,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-17T16:59:31.673Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/FontSizeComboBox.4dm": {
+		"startSelection": 8,
+		"endSelection": 8,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-17T19:33:32.849Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/UnderlineCheckBox.4dm": {
+		"startSelection": 3,
+		"endSelection": 3,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-15T16:46:48.859Z"
+	},
+	"Trash/Classes/openFontStyleDialog.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-16T00:12:37.597Z"
+	},
+	"Sources/Classes/openTextStyleDialog.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 52,
+		"lastSelectedLine": 52,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-28T18:30:51.473Z"
+	},
+	"Sources/Methods/resizeSampleText.4dm": {
+		"startSelection": 42,
+		"endSelection": 42,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-17T22:08:39.523Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/Button.4dm": {
+		"startSelection": 5,
+		"endSelection": 5,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-28T18:05:42.339Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/ExportButton.4dm": {
+		"startSelection": 6,
+		"endSelection": 6,
+		"firstSelectedLine": 41,
+		"lastSelectedLine": 41,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-19T19:40:58.970Z"
+	},
+	"Sources/Methods/Compiler_Methods.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-28T19:41:44.078Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/ColorButton.4dm": {
+		"startSelection": 50,
+		"endSelection": 50,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-17T19:34:54.161Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/ApplyButton.4dm": {
+		"startSelection": 29,
+		"endSelection": 29,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-28T18:29:40.273Z"
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/JSONButton.4dm": {
+		"startSelection": 59,
+		"endSelection": 59,
+		"firstSelectedLine": 32,
+		"lastSelectedLine": 32,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-27T23:17:01.059Z"
+	},
+	"Trash/Methods/(parseFontStyleInt).4dm": {
+		"startSelection": 24,
+		"endSelection": 24,
+		"firstSelectedLine": 19,
+		"lastSelectedLine": 19,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2023-11-27T23:34:10.683Z"
+	}
+}

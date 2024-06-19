@@ -1,0 +1,352 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "fixed",
+	"windowSizingY": "fixed",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"events": [
+		"onLoad",
+		"onPageChange"
+	],
+	"windowTitle": "File Handle Demo",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {
+				"FileTabControl": {
+					"type": "tab",
+					"text": "Tab control",
+					"top": 9,
+					"left": 22,
+					"width": 1206,
+					"height": 1059,
+					"labels": [
+						"Text",
+						"Blob"
+					],
+					"events": [
+						"onClick"
+					],
+					"dataSourceTypeHint": "arrayText",
+					"dataSource": "test",
+					"action": "",
+					"method": "ObjectMethods/FileTabControl.4dm"
+				}
+			}
+		},
+		{
+			"objects": {
+				"Text_FileHandleTabControl": {
+					"type": "tab",
+					"text": "Tab control",
+					"top": 480,
+					"left": 32,
+					"width": 1180,
+					"height": 576,
+					"labels": [
+						"Read",
+						"Write",
+						"Append"
+					],
+					"method": "ObjectMethods/Text_FileHandleTabControl.4dm",
+					"dataSourceTypeHint": "arrayText",
+					"events": [
+						"onClick"
+					]
+				},
+				"Text_FileContent": {
+					"type": "input",
+					"left": 63,
+					"top": 236,
+					"width": 1107,
+					"height": 209,
+					"dataSource": "Form:C1466.text_fileContent",
+					"enterable": false,
+					"focusable": false,
+					"scrollbarVertical": "visible"
+				},
+				"Text_FilePropertiesTitle": {
+					"type": "text",
+					"text": "File Properties",
+					"top": 50,
+					"left": 63,
+					"width": 184,
+					"height": 16,
+					"fontWeight": "bold",
+					"fontSize": 18
+				},
+				"Text_NameTitle": {
+					"type": "text",
+					"text": "Name:",
+					"top": 103,
+					"left": 63,
+					"width": 56,
+					"height": 16,
+					"fontWeight": "bold"
+				},
+				"Text_PlatformPathTitle": {
+					"type": "text",
+					"text": "Platform Path:",
+					"top": 130,
+					"left": 63,
+					"width": 99,
+					"height": 16,
+					"fontWeight": "bold"
+				},
+				"Text_POSIXPathTitle": {
+					"type": "text",
+					"text": "POSIX Path:",
+					"top": 157,
+					"left": 63,
+					"width": 83,
+					"height": 16,
+					"fontWeight": "bold"
+				},
+				"Text_SizeTitle": {
+					"type": "text",
+					"text": "Size:",
+					"top": 103,
+					"left": 628,
+					"width": 50,
+					"height": 16,
+					"fontWeight": "bold"
+				},
+				"Text_FileExplorerButton": {
+					"type": "button",
+					"text": "Open in File Explorer",
+					"top": 49,
+					"left": 1033,
+					"width": 153,
+					"height": 22,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Text_FileExplorerButton.4dm"
+				},
+				"Text_NameValue": {
+					"type": "text",
+					"text": "Name Value",
+					"top": 103,
+					"left": 187,
+					"width": 425,
+					"height": 16
+				},
+				"Text_PlatformPathValue": {
+					"type": "text",
+					"text": "Platform Path Value",
+					"top": 130,
+					"left": 187,
+					"width": 999,
+					"height": 16
+				},
+				"Text_POSIXPathValue": {
+					"type": "text",
+					"text": "POSIX Path Value",
+					"top": 157,
+					"left": 187,
+					"width": 999,
+					"height": 16
+				},
+				"Text_SizeValue": {
+					"type": "text",
+					"text": "Size Value",
+					"top": 103,
+					"left": 755,
+					"width": 425,
+					"height": 16
+				},
+				"Text_FileContentTitle": {
+					"type": "text",
+					"text": "File Content",
+					"top": 210,
+					"left": 63,
+					"width": 184,
+					"height": 16,
+					"fontWeight": "bold",
+					"fontSize": 16
+				},
+				"Text_FileHandleSubform": {
+					"type": "subform",
+					"left": 44,
+					"top": 530,
+					"width": 1157,
+					"height": 513,
+					"detailForm": "Text_FileHandles",
+					"dataSource": "Form:C1466",
+					"focusable": false,
+					"events": [
+						"onLoad"
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"Blob_FileContent": {
+					"type": "input",
+					"left": 63,
+					"top": 236,
+					"width": 1120,
+					"height": 209,
+					"dataSource": "Form:C1466.blob_fileContent",
+					"enterable": false,
+					"focusable": false,
+					"scrollbarVertical": "visible"
+				},
+				"Blob_FilePropertiesTitle": {
+					"type": "text",
+					"text": "File Properties",
+					"top": 50,
+					"left": 63,
+					"width": 184,
+					"height": 16,
+					"fontWeight": "bold",
+					"fontSize": 18
+				},
+				"Blob_NameTitle": {
+					"type": "text",
+					"text": "Name:",
+					"top": 103,
+					"left": 63,
+					"width": 56,
+					"height": 16,
+					"fontWeight": "bold"
+				},
+				"Blob_PlatformPathTitle": {
+					"type": "text",
+					"text": "Platform Path:",
+					"top": 130,
+					"left": 63,
+					"width": 99,
+					"height": 16,
+					"fontWeight": "bold"
+				},
+				"Blob_POSIXPathTitle": {
+					"type": "text",
+					"text": "POSIX Path:",
+					"top": 157,
+					"left": 63,
+					"width": 83,
+					"height": 16,
+					"fontWeight": "bold"
+				},
+				"Blob_SizeTitle": {
+					"type": "text",
+					"text": "Size:",
+					"top": 103,
+					"left": 628,
+					"width": 50,
+					"height": 16,
+					"fontWeight": "bold"
+				},
+				"Blob_FileExplorerButton": {
+					"type": "button",
+					"text": "Open in File Explorer",
+					"top": 49,
+					"left": 1033,
+					"width": 153,
+					"height": 22,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Blob_FileExplorerButton.4dm"
+				},
+				"Blob_NameValue": {
+					"type": "text",
+					"text": "Name Value",
+					"top": 103,
+					"left": 187,
+					"width": 360,
+					"height": 16
+				},
+				"Blob_PlatformPathValue": {
+					"type": "text",
+					"text": "Platform Path Value",
+					"top": 130,
+					"left": 187,
+					"width": 1008,
+					"height": 16
+				},
+				"Blob_POSIXPathValue": {
+					"type": "text",
+					"text": "POSIX Path Value",
+					"top": 157,
+					"left": 187,
+					"width": 1008,
+					"height": 16
+				},
+				"Blob_SizeValue": {
+					"type": "text",
+					"text": "Size Value",
+					"top": 103,
+					"left": 755,
+					"width": 445,
+					"height": 16
+				},
+				"Text_FileContentTitle1": {
+					"type": "text",
+					"text": "File Content",
+					"top": 210,
+					"left": 63,
+					"width": 184,
+					"height": 16,
+					"fontWeight": "bold",
+					"fontSize": 16
+				},
+				"Blob_FileHandleTabControl": {
+					"type": "tab",
+					"text": "Tab control",
+					"top": 480,
+					"left": 32,
+					"width": 1180,
+					"height": 576,
+					"labels": [
+						"Read",
+						"Write",
+						"Append"
+					],
+					"method": "ObjectMethods/Blob_FileHandleTabControl.4dm",
+					"dataSourceTypeHint": "arrayText",
+					"events": [
+						"onClick"
+					]
+				},
+				"Blob_FileHandleSubform": {
+					"type": "subform",
+					"left": 44,
+					"top": 530,
+					"width": 1157,
+					"height": 513,
+					"detailForm": "Blob_FileHandles",
+					"dataSource": "Form:C1466",
+					"focusable": false,
+					"events": [
+						"onLoad"
+					]
+				}
+			}
+		}
+	],
+	"geometryStamp": 451,
+	"editor": {
+		"activeView": "Tab Control",
+		"defaultView": "Components",
+		"views": {
+			"Components": {},
+			"Tab Control": {
+				"objects": [
+					"Text_FileHandleTabControl",
+					"Blob_FileHandleTabControl"
+				]
+			}
+		}
+	},
+	"method": "method.4dm",
+	"width": 1250,
+	"height": 1087
+}

@@ -1,0 +1,94 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 0,
+	"events": [
+		"onLoad"
+	],
+	"windowTitle": "Splash Screen",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Title": {
+					"type": "text",
+					"text": "File Handles Technical Note Demo",
+					"top": 51,
+					"left": 91,
+					"width": 311,
+					"height": 46,
+					"fontSize": 16
+				},
+				"Date": {
+					"type": "text",
+					"text": "February 2023",
+					"top": 75,
+					"left": 91,
+					"width": 314,
+					"height": 46
+				},
+				"Description": {
+					"type": "text",
+					"text": "Welcome to the File Handles Technical Note Demo. The purpose of this demo application is to help you understand how file handles work in practice.\r\rThere are two modules in this demo. The \"Text File Handle Demo\" deals with plain text, while the \"Blob File Handle Demo\" works with BLOB values within a file. \r\rTo get started, select the module by clicking one of the buttons below:\r",
+					"top": 123,
+					"left": 91,
+					"width": 408,
+					"height": 169
+				},
+				"Rectangle": {
+					"type": "rectangle",
+					"top": -1,
+					"left": 0,
+					"width": 71,
+					"height": 385,
+					"fill": "#c0c0c0",
+					"stroke": "transparent"
+				},
+				"TextFileHandleDemoButton": {
+					"type": "button",
+					"text": "Text File Handle Demo",
+					"top": 312,
+					"left": 109,
+					"width": 177,
+					"height": 20,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/TextFileHandleDemoButton.4dm"
+				},
+				"BlobFileHandleDemoButton": {
+					"type": "button",
+					"text": "Blob File Handle Demo",
+					"top": 312,
+					"left": 298,
+					"width": 177,
+					"height": 20,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/BlobFileHandleDemoButton.4dm"
+				}
+			}
+		}
+	],
+	"geometryStamp": 48,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	}
+}

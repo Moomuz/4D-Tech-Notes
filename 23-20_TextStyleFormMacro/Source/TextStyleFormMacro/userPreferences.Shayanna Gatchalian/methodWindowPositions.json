@@ -1,0 +1,278 @@
+{
+	"Sources/Classes/openFontStyleDialog.4dm": {
+		"left": 701,
+		"top": 245,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button.4dm": {
+		"left": 1069,
+		"top": 441,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/method.4dm": {
+		"left": 309,
+		"top": 414,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/FontSizeComboBox.4dm": {
+		"left": 403,
+		"top": 457,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button1.4dm": {
+		"left": 637,
+		"top": 354,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/FontsListBox.4dm": {
+		"left": 577,
+		"top": 486,
+		"width": 965,
+		"height": 446
+	},
+	"Trash/Methods/(Method1).4dm": {
+		"left": 470,
+		"top": 528,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Input.4dm": {
+		"left": 470,
+		"top": 528,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Input3.4dm": {
+		"left": 656,
+		"top": 387,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/ColorInput.4dm": {
+		"left": 656,
+		"top": 387,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/OffScreenInput.4dm": {
+		"left": 597,
+		"top": 271,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button5.4dm": {
+		"left": 656,
+		"top": 387,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/BoldCheckBox.4dm": {
+		"left": 336,
+		"top": 290,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/UnderlineCheckBox.4dm": {
+		"left": 674,
+		"top": 416,
+		"width": 965,
+		"height": 400
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/ItalicCheckBox.4dm": {
+		"left": 724,
+		"top": 535,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button6.4dm": {
+		"left": 558,
+		"top": 753,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/ColorButton.4dm": {
+		"left": 393,
+		"top": 585,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Methods/calcFontStyleInt.4dm": {
+		"left": 365,
+		"top": 405,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/TabControl.4dm": {
+		"left": 629,
+		"top": 516,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/List Box.4dm": {
+		"left": 884,
+		"top": 447,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Button4.4dm": {
+		"left": 560,
+		"top": 439,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/FontStyle/ObjectMethods/Check Box.4dm": {
+		"left": 413,
+		"top": 539,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Methods/hexToRGBInt.4dm": {
+		"left": 592,
+		"top": 518,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/method.4dm": {
+		"left": 501,
+		"top": 390,
+		"width": 965,
+		"height": 453
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/SampleText.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/DarkBackgroundCheckbox.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/FontsListBox.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/ItalicCheckBox.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/Button4.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/FavoritesDropdownMenu.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/Input.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/FavoritesButton.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/BoldCheckBox.4dm": {
+		"left": 701,
+		"top": 393,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/Button3.4dm": {
+		"left": 521,
+		"top": 513,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/FontSizeComboBox.4dm": {
+		"left": 658,
+		"top": 553,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/UnderlineCheckBox.4dm": {
+		"left": 701,
+		"top": 212,
+		"width": 965,
+		"height": 446
+	},
+	"Trash/Classes/openFontStyleDialog.4dm": {
+		"left": 701,
+		"top": 245,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Classes/openTextStyleDialog.4dm": {
+		"left": 376,
+		"top": 320,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Methods/resizeSampleText.4dm": {
+		"left": 702,
+		"top": 484,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/Button.4dm": {
+		"left": 706,
+		"top": 399,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/ExportButton.4dm": {
+		"left": 1089,
+		"top": 519,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Methods/Compiler_Methods.4dm": {
+		"left": 365,
+		"top": 405,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/ColorButton.4dm": {
+		"left": 701,
+		"top": 521,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/ApplyButton.4dm": {
+		"left": 718,
+		"top": 213,
+		"width": 965,
+		"height": 446
+	},
+	"Sources/Forms/TextStyle/ObjectMethods/JSONButton.4dm": {
+		"left": 718,
+		"top": 213,
+		"width": 965,
+		"height": 446
+	},
+	"Trash/Methods/(parseFontStyleInt).4dm": {
+		"left": 706,
+		"top": 399,
+		"width": 965,
+		"height": 446
+	}
+}

@@ -1,0 +1,244 @@
+{
+	"map": [
+		{
+			"id": 2147483647,
+			"path": "Sources/Methods/text_displayFileContent.4dm"
+		},
+		{
+			"id": 2147483646,
+			"path": "Sources/Methods/blob_displayFileContent.4dm"
+		},
+		{
+			"id": 2147483645,
+			"path": "Sources/Methods/blob_createWriteHandle.4dm"
+		},
+		{
+			"id": 2147483644,
+			"path": "Sources/Methods/text_displayAHProperties.4dm"
+		},
+		{
+			"id": 2147483643,
+			"path": "Sources/Methods/blob_createReadHandle.4dm"
+		},
+		{
+			"id": 2147483642,
+			"path": "Sources/Methods/blob_loadFile.4dm"
+		},
+		{
+			"id": 2147483641,
+			"path": "Sources/Methods/text_changeFileHandle.4dm",
+			"parameters": [
+				{
+					"parameterName": "",
+					"parameterType": 0
+				},
+				{
+					"parameterName": "select",
+					"parameterType": 283
+				}
+			]
+		},
+		{
+			"id": 2147483640,
+			"path": "Sources/Methods/text_createWriteHandle.4dm"
+		},
+		{
+			"id": 2147483639,
+			"path": "Sources/Methods/blob_displayAHProperties.4dm"
+		},
+		{
+			"id": 2147483638,
+			"path": "Sources/Methods/Compiler_Arrays.4dm"
+		},
+		{
+			"id": 2147483637,
+			"path": "Sources/Methods/blob_displayRHProperties.4dm"
+		},
+		{
+			"id": 2147483636,
+			"path": "Sources/Methods/text_loadFile.4dm"
+		},
+		{
+			"id": 2147483635,
+			"path": "Sources/Methods/text_displayWHProperties.4dm"
+		},
+		{
+			"id": 2147483634,
+			"path": "Sources/Methods/text_createReadHandle.4dm"
+		},
+		{
+			"id": 2147483633,
+			"path": "Sources/Methods/blob_createAppendHandle.4dm"
+		},
+		{
+			"id": 2147483632,
+			"path": "Sources/Methods/openSplashScreen.4dm"
+		},
+		{
+			"id": 2147483631,
+			"path": "Sources/Methods/text_createAppendHandle.4dm"
+		},
+		{
+			"id": 2147483630,
+			"path": "Sources/Methods/text_displayRHProperties.4dm"
+		},
+		{
+			"id": 2147483629,
+			"path": "Sources/Methods/text_openFileHandleDemo.4dm"
+		},
+		{
+			"id": 2147483628,
+			"path": "Sources/Methods/blob_openFileHandleDemo.4dm"
+		},
+		{
+			"id": 2147483627,
+			"path": "Sources/Methods/Compiler_Methods.4dm"
+		},
+		{
+			"id": 2147483626,
+			"path": "Sources/Methods/blob_changeFileHandle.4dm",
+			"parameters": [
+				{
+					"parameterName": "",
+					"parameterType": 0
+				},
+				{
+					"parameterName": "select",
+					"parameterType": 283
+				}
+			]
+		},
+		{
+			"id": 2147483625,
+			"path": "Sources/Methods/blob_displayWHProperties.4dm"
+		},
+		{
+			"id": 2147483624,
+			"path": "Sources/DatabaseMethods/onStartup.4dm"
+		},
+		{
+			"id": 2147483623,
+			"path": "Sources/Forms/SplashScreen/ObjectMethods/TextFileHandleDemoButton.4dm"
+		},
+		{
+			"id": 2147483622,
+			"path": "Sources/Forms/SplashScreen/ObjectMethods/BlobFileHandleDemoButton.4dm"
+		},
+		{
+			"id": 2147483621,
+			"path": "Sources/Forms/Text_FileHandleDemo/method.4dm"
+		},
+		{
+			"id": 2147483620,
+			"path": "Sources/Forms/Text_FileHandleDemo/ObjectMethods/Text_FileExplorerButton.4dm"
+		},
+		{
+			"id": 2147483619,
+			"path": "Sources/Forms/Text_FileHandleDemo/ObjectMethods/Text_FileHandleDropdownMenu.4dm"
+		},
+		{
+			"id": 2147483618,
+			"path": "Sources/Forms/Text_FileHandles/method.4dm"
+		},
+		{
+			"id": 2147483617,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_readHandleFunctionTabControl.4dm"
+		},
+		{
+			"id": 2147483616,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_ReadLineButton.4dm"
+		},
+		{
+			"id": 2147483615,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_ReadTextButton.4dm"
+		},
+		{
+			"id": 2147483614,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_ReadOffsetSetButton.4dm"
+		},
+		{
+			"id": 2147483613,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_writeHandleFunctionTabControl.4dm"
+		},
+		{
+			"id": 2147483612,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_WriteOffsetSetButton.4dm"
+		},
+		{
+			"id": 2147483611,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_WriteTextButton.4dm"
+		},
+		{
+			"id": 2147483610,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_WriteLineButton.4dm"
+		},
+		{
+			"id": 2147483609,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_appendHandleFunctionTabControl.4dm"
+		},
+		{
+			"id": 2147483608,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_WriteTextButton1.4dm"
+		},
+		{
+			"id": 2147483607,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_WriteLineButton1.4dm"
+		},
+		{
+			"id": 2147483606,
+			"path": "Sources/Forms/Text_FileHandles/ObjectMethods/Text_AppendOffsetSetButton.4dm"
+		},
+		{
+			"id": 2147483605,
+			"path": "Sources/Forms/Blob_FileHandleDemo/method.4dm"
+		},
+		{
+			"id": 2147483604,
+			"path": "Sources/Forms/Blob_FileHandleDemo/ObjectMethods/Blob_FileExplorerButton.4dm"
+		},
+		{
+			"id": 2147483603,
+			"path": "Sources/Forms/Blob_FileHandleDemo/ObjectMethods/Blob_FileHandleDropdownMenu.4dm"
+		},
+		{
+			"id": 2147483602,
+			"path": "Sources/Forms/Blob_FileHandles/method.4dm"
+		},
+		{
+			"id": 2147483601,
+			"path": "Sources/Forms/Blob_FileHandles/ObjectMethods/Blob_ReadBlobButton.4dm"
+		},
+		{
+			"id": 2147483600,
+			"path": "Sources/Forms/Blob_FileHandles/ObjectMethods/Blob_ReadOffsetSetButton.4dm"
+		},
+		{
+			"id": 2147483599,
+			"path": "Sources/Forms/Blob_FileHandles/ObjectMethods/Blob_WriteOffsetSetButton.4dm"
+		},
+		{
+			"id": 2147483598,
+			"path": "Sources/Forms/Blob_FileHandles/ObjectMethods/Blob_WriteHandleWriteBlobButton.4dm"
+		},
+		{
+			"id": 2147483597,
+			"path": "Sources/Forms/Blob_FileHandles/ObjectMethods/Blob_AppendOffsetSetButton.4dm"
+		},
+		{
+			"id": 2147483596,
+			"path": "Sources/Forms/Blob_FileHandles/ObjectMethods/Blob_AppendHandleWriteBlobButton.4dm"
+		},
+		{
+			"id": 2147483595,
+			"path": "Trash/Forms/(FileHandleDemo1)/method.4dm"
+		},
+		{
+			"id": 2147483594,
+			"path": "Trash/Forms/(Blob_FileHandless)/method.4dm"
+		}
+	],
+	"targets": {
+		"x86_64_generic": true
+	},
+	"arch64": true
+}

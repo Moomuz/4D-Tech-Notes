@@ -1,0 +1,17 @@
+/* secondaryStyleSheet.css file */
+
+/* This style sheet acts as a secondary document to the main 
+   "ImportedDynamicSheets.css" document. Here, paste any of the CSS 
+   rules from the main style sheet.
+*/
+
+
+#title {
+   /* fontSize: 22; --> from the main "ImportedDynamicSheets.css" file */
+
+   /* add declarations here */
+   /* example
+   fontStyle: italic;
+   */
+}
+

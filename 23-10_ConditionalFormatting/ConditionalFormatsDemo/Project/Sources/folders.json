@@ -1,0 +1,69 @@
+{
+	"Compiler Variables and Methods": {
+		"methods": [
+			"Compiler_Methods",
+			"Compiler_Variables"
+		]
+	},
+	"CondtionalFormatsDemo Methods": {
+		"methods": [
+			"addCustomFunction",
+			"addFormRulesColProperties",
+			"addNewState",
+			"currentRuleObject"
+		]
+	},
+	"Create Rule Object Methods": {
+		"methods": [
+			"create4DMethodFormulaRuleObject",
+			"createAverageRuleObject",
+			"createCellValueRuleObject",
+			"createColumnStateRuleObject",
+			"createCustomIconSetRuleObject",
+			"createDataBarRuleObject",
+			"createDateOccurringRuleObject",
+			"createDuplicateRuleObject",
+			"createEasyIconSetRuleObject",
+			"createFormulaRuleObject",
+			"createRowStateRuleObject",
+			"createSpecificTextRuleObject",
+			"createThreeScaleRuleObject",
+			"createTop10RuleObject",
+			"createTwoScaleRuleObject",
+			"createUniqueRuleObject"
+		]
+	},
+	"Default Classes": {},
+	"Default Folder": {
+		"groups": [
+			"Default Classes",
+			"Default Forms",
+			"Default Project Methods",
+			"Default Tables"
+		]
+	},
+	"Default Forms": {},
+	"Default Project Methods": {},
+	"Default Tables": {},
+	"Forms": {
+		"forms": [
+			"ConditionalFormatsDemo",
+			"SplashScreen"
+		]
+	},
+	"Methods": {
+		"groups": [
+			"Compiler Variables and Methods",
+			"CondtionalFormatsDemo Methods",
+			"Create Rule Object Methods",
+			"Open Form Methods"
+		]
+	},
+	"Open Form Methods": {
+		"methods": [
+			"_openDemo",
+			"_openSplashScreen"
+		]
+	},
+	"trash": {}
+}

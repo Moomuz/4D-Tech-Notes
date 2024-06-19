@@ -1,0 +1,12 @@
+{
+	"forms": {
+		"SplashScreen": {
+			"timeStamp": "2023-05-16T18:33:21Z",
+			"destination": "detailScreen"
+		},
+		"ConditionalFormatsDemo": {
+			"timeStamp": "2023-05-19T15:38:32Z",
+			"destination": "detailScreen"
+		}
+	}
+}

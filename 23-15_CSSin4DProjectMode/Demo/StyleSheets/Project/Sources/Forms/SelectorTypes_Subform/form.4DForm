@@ -1,0 +1,282 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 0,
+	"bottomMargin": 0,
+	"events": [],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Group Box": {
+					"type": "groupBox",
+					"text": "Object Name",
+					"top": 0,
+					"left": 0,
+					"width": 531,
+					"height": 164
+				},
+				"sampleText": {
+					"type": "text",
+					"text": "Sample Text",
+					"top": 92,
+					"left": 22,
+					"width": 99,
+					"height": 19
+				},
+				"rect": {
+					"type": "rectangle",
+					"top": 92,
+					"left": 129,
+					"width": 123,
+					"height": 38
+				},
+				"Group Box1": {
+					"type": "groupBox",
+					"text": "Specific Attribute",
+					"top": 184,
+					"left": 0,
+					"width": 531,
+					"height": 122
+				},
+				"Group Box2": {
+					"type": "groupBox",
+					"text": "Class",
+					"top": 326,
+					"left": 0,
+					"width": 531,
+					"height": 147
+				},
+				"Group Box3": {
+					"type": "groupBox",
+					"text": "Object Type",
+					"top": 498,
+					"left": 0,
+					"width": 531,
+					"height": 148
+				},
+				"clickMe": {
+					"type": "button",
+					"text": "Click me!",
+					"top": 92,
+					"left": 272,
+					"width": 96,
+					"height": 26,
+					"events": [
+						"onClick"
+					]
+				},
+				"radio1": {
+					"type": "radio",
+					"text": "Radio",
+					"top": 92,
+					"left": 397,
+					"width": 125,
+					"height": 20,
+					"events": [
+						"onClick"
+					]
+				},
+				"radio3": {
+					"type": "radio",
+					"text": "Radio",
+					"top": 132,
+					"left": 397,
+					"width": 125,
+					"height": 20,
+					"events": [
+						"onClick"
+					]
+				},
+				"radio2": {
+					"type": "radio",
+					"text": "Radio",
+					"top": 112,
+					"left": 397,
+					"width": 125,
+					"height": 20,
+					"events": [
+						"onClick"
+					]
+				},
+				"Check Box": {
+					"type": "checkbox",
+					"text": "Checkbox",
+					"top": 577,
+					"left": 397,
+					"width": 125,
+					"height": 17,
+					"events": [
+						"onClick"
+					]
+				},
+				"Check Box1": {
+					"type": "checkbox",
+					"text": "Checkbox",
+					"top": 597,
+					"left": 397,
+					"width": 120,
+					"height": 17,
+					"events": [
+						"onClick"
+					]
+				},
+				"Check Box2": {
+					"type": "checkbox",
+					"text": "Checkbox",
+					"top": 617,
+					"left": 397,
+					"width": 120,
+					"height": 17,
+					"events": [
+						"onClick"
+					]
+				},
+				"Text1": {
+					"type": "text",
+					"text": "This section contains form elements with object names. Any CSS rules that contain object name selectors will apply here.",
+					"top": 26,
+					"left": 15,
+					"width": 507,
+					"height": 31
+				},
+				"Text2": {
+					"type": "text",
+					"text": "Here, a simple text element is displayed. Refer to the style sheets to see how the four syntaxes of this selector type affect the styling of the form element.",
+					"top": 209,
+					"left": 15,
+					"width": 507,
+					"height": 31
+				},
+				"Text3": {
+					"type": "text",
+					"text": "All of the items in this section fall under the same \"myClass\" class. Any style declarations with this selector type will only apply to the form elements here.",
+					"top": 355,
+					"left": 15,
+					"width": 507,
+					"height": 31
+				},
+				"Text4": {
+					"type": "text",
+					"text": "This section contains items from the previous section as well as unique form elements. When applying styles, notice the differences between the two groups.",
+					"top": 526,
+					"left": 15,
+					"width": 502,
+					"height": 31
+				},
+				"Text7": {
+					"type": "text",
+					"text": "Hello world! My name is John Doe.",
+					"top": 275,
+					"left": 15,
+					"width": 305,
+					"height": 31
+				},
+				"Input": {
+					"type": "input",
+					"left": 15,
+					"top": 406,
+					"width": 90,
+					"height": 17,
+					"class": "myClass"
+				},
+				"Oval": {
+					"type": "oval",
+					"top": 406,
+					"left": 129,
+					"width": 123,
+					"height": 38,
+					"class": "myClass"
+				},
+				"Button1": {
+					"type": "button",
+					"text": "Click me!",
+					"top": 406,
+					"left": 272,
+					"width": 96,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"class": "myClass"
+				},
+				"Radio Button3": {
+					"type": "radio",
+					"text": "Radio",
+					"top": 406,
+					"left": 397,
+					"width": 125,
+					"height": 20,
+					"events": [
+						"onClick"
+					],
+					"class": "myClass"
+				},
+				"Radio Button4": {
+					"type": "radio",
+					"text": "Radio",
+					"top": 446,
+					"left": 397,
+					"width": 125,
+					"height": 20,
+					"events": [
+						"onClick"
+					],
+					"class": "myClass"
+				},
+				"Radio Button5": {
+					"type": "radio",
+					"text": "Radio",
+					"top": 426,
+					"left": 397,
+					"width": 125,
+					"height": 20,
+					"events": [
+						"onClick"
+					],
+					"class": "myClass"
+				},
+				"Input1": {
+					"type": "input",
+					"left": 15,
+					"top": 577,
+					"width": 90,
+					"height": 17,
+					"class": "myClass"
+				},
+				"Oval1": {
+					"type": "oval",
+					"top": 577,
+					"left": 129,
+					"width": 123,
+					"height": 38,
+					"class": "myClass"
+				},
+				"Ruler": {
+					"type": "ruler",
+					"left": 272,
+					"top": 577,
+					"width": 105,
+					"height": 29,
+					"max": 100,
+					"events": [
+						"onDataChange"
+					]
+				}
+			}
+		}
+	],
+	"geometryStamp": 4
+}

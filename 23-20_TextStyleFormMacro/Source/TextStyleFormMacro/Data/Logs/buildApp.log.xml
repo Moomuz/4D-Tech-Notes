@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type = "text/css" href="BuildLogStyleSheet.css"?>
+<BuildApplicationLog>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Component</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Start compilation [2023-11-28T11:44:33]</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Start copying files : Macintosh HD:Users:shayannagatchalian:Desktop:TextStyleFormMacro_Build:Components:TextStyleFormMacro.4dbase:TextStyleFormMacro.4DZ</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>End copying files : Macintosh HD:Users:shayannagatchalian:Desktop:TextStyleFormMacro_Build:Components:TextStyleFormMacro.4dbase:TextStyleFormMacro.4DZ</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Component</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Launching code signing tool: ''/Applications/4D v20.1 (100768)/4D v20.1/4D.app/Contents/Resources/SignApp.sh' 'Shayanna Gatchalian 3' '/Users/shayannagatchalian/Desktop/TextStyleFormMacro_Build/Components/TextStyleFormMacro.4dbase' '/Applications/4D v20.1 (100768)/4D v20.1/4D.app/Contents/Resources/4D.entitlements' '/Users/shayannagatchalian/Desktop/TextStyleFormMacro/Data/Logs/logSign.txt''</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Component</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Signing tool return status: 0</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Component</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Signed file: /Users/shayannagatchalian/Desktop/TextStyleFormMacro_Build/Components/TextStyleFormMacro.4dbase/Libraries/lib4d-arm64.dylib: signed Mach-O thin (arm64) [lib4d-arm64]</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Component</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>End compilation [2023-11-28T11:44:33]</Message>
+  </Log>
+
+</BuildApplicationLog>

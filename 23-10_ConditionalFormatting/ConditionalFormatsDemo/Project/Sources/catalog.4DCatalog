@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="ConditionalFormatsDemo" uuid="8B9437770F03456AADE77C156A796092" collation_locale="en">
+	<schema name="DEFAULT_SCHEMA"/>
+	<table name="(People)" uuid="FDE2A4515D9341E8989A084163E1DEEE" id="1" hide_in_REST="true">
+		<field name="ID" uuid="8C369AFCE555443E820C8D1B547933F3" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
+		<field name="age" uuid="F68F1B0DB5F64756AF639B8B05B88907" type="4" id="2"/>
+		<field name="first_name" uuid="625176F0DA3E423D9915663E96FD9393" type="10" limiting_length="255" id="3">
+			<field_extra multi_line="false"/>
+		</field>
+		<field name="last_name" uuid="860F21A7588242BC8AE3CA63D28DE57A" type="10" limiting_length="255" id="4">
+			<field_extra multi_line="false"/>
+		</field>
+		<primary_key field_name="ID" field_uuid="8C369AFCE555443E820C8D1B547933F3"/>
+		<table_extra trashed="true">
+			<editor_table_info displayable_fields_count="6">
+				<color red="255" green="255" blue="255" alpha="0"/>
+				<coordinates left="40" top="40" width="120" height="167.33203125"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<index kind="regular" unique_keys="true" uuid="EABA23CD20A94FFC8E00C1AF43EBD1AF" type="7">
+		<field_ref uuid="8C369AFCE555443E820C8D1B547933F3" name="ID">
+			<table_ref uuid="FDE2A4515D9341E8989A084163E1DEEE" name="(People)"/>
+		</field_ref>
+	</index>
+	<base_extra __stringCompHash="icu:68.1.0" __keywordBuildingHash="icu:68.1.0">
+		<journal_file journal_file_enabled="true"/>
+	</base_extra>
+</base>

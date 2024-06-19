@@ -1,0 +1,79 @@
+{
+	"methods": {
+		"text_displayFileContent": {
+			"timeStamp": "2023-02-15T21:12:48Z"
+		},
+		"blob_displayFileContent": {
+			"timeStamp": "2023-02-17T16:26:12Z"
+		},
+		"blob_createWriteHandle": {
+			"timeStamp": "2023-02-17T17:23:14Z"
+		},
+		"text_displayAHProperties": {
+			"timeStamp": "2023-02-16T17:31:48Z"
+		},
+		"blob_createReadHandle": {
+			"timeStamp": "2023-02-17T17:23:08Z"
+		},
+		"blob_loadFile": {
+			"timeStamp": "2023-02-22T19:07:36Z"
+		},
+		"text_changeFileHandle": {
+			"timeStamp": "2023-02-16T21:23:41Z"
+		},
+		"text_createWriteHandle": {
+			"timeStamp": "2023-02-17T17:22:40Z"
+		},
+		"blob_displayAHProperties": {
+			"timeStamp": "2023-02-17T16:03:33Z"
+		},
+		"Compiler_Arrays": {
+			"timeStamp": "2023-02-22T21:41:32Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"blob_displayRHProperties": {
+			"timeStamp": "2023-02-17T16:57:48Z"
+		},
+		"text_loadFile": {
+			"timeStamp": "2023-02-22T19:07:36Z"
+		},
+		"text_displayWHProperties": {
+			"timeStamp": "2023-02-16T01:07:22Z"
+		},
+		"text_createReadHandle": {
+			"timeStamp": "2023-02-17T17:22:59Z"
+		},
+		"blob_createAppendHandle": {
+			"timeStamp": "2023-02-17T17:20:07Z"
+		},
+		"openSplashScreen": {
+			"timeStamp": "2023-02-22T19:25:04Z"
+		},
+		"text_createAppendHandle": {
+			"timeStamp": "2023-02-17T17:21:52Z"
+		},
+		"text_displayRHProperties": {
+			"timeStamp": "2023-02-17T16:57:41Z"
+		},
+		"text_openFileHandleDemo": {
+			"timeStamp": "2023-02-22T18:17:11Z"
+		},
+		"blob_openFileHandleDemo": {
+			"timeStamp": "2023-02-22T18:18:11Z"
+		},
+		"Compiler_Methods": {
+			"timeStamp": "2023-02-22T21:41:32Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"blob_changeFileHandle": {
+			"timeStamp": "2023-02-16T21:46:30Z"
+		},
+		"blob_displayWHProperties": {
+			"timeStamp": "2023-02-17T16:03:09Z"
+		}
+	}
+}

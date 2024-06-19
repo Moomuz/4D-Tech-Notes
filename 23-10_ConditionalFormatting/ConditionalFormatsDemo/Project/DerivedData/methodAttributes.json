@@ -1,0 +1,85 @@
+{
+	"methods": {
+		"_demo": {
+			"timeStamp": "2023-05-19T15:40:27Z"
+		},
+		"createTop10RuleObject": {
+			"timeStamp": "2023-05-16T17:06:38Z"
+		},
+		"createEasyIconSetRuleObject": {
+			"timeStamp": "2023-05-16T17:02:44Z"
+		},
+		"createRowStateRuleObject": {
+			"timeStamp": "2023-05-16T17:05:13Z"
+		},
+		"createTwoScaleRuleObject": {
+			"timeStamp": "2023-05-16T17:06:55Z"
+		},
+		"createDuplicateRuleObject": {
+			"timeStamp": "2023-05-16T17:02:27Z"
+		},
+		"createFormulaRuleObject": {
+			"timeStamp": "2023-05-16T17:03:01Z"
+		},
+		"createCellValueRuleObject": {
+			"timeStamp": "2023-05-16T17:00:53Z"
+		},
+		"createDataBarRuleObject": {
+			"timeStamp": "2023-05-16T17:01:48Z"
+		},
+		"createAverageRuleObject": {
+			"timeStamp": "2023-05-16T17:00:36Z"
+		},
+		"_openSplashScreen": {
+			"timeStamp": "2023-05-16T16:58:27Z"
+		},
+		"createSpecificTextRuleObject": {
+			"timeStamp": "2023-05-16T17:05:33Z"
+		},
+		"create4DMethodFormulaRuleObject": {
+			"timeStamp": "2023-05-16T17:00:18Z"
+		},
+		"createUniqueRuleObject": {
+			"timeStamp": "2023-05-16T17:07:08Z"
+		},
+		"createCustomIconSetRuleObject": {
+			"timeStamp": "2023-05-16T17:01:32Z"
+		},
+		"Compiler_Variables": {
+			"timeStamp": "2023-05-16T17:10:41Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"currentRuleObject": {
+			"timeStamp": "2023-05-16T17:07:21Z"
+		},
+		"createDateOccurringRuleObject": {
+			"timeStamp": "2023-05-16T17:02:12Z"
+		},
+		"addCustomFunction": {
+			"timeStamp": "2023-05-16T16:58:45Z"
+		},
+		"Compiler_Methods": {
+			"timeStamp": "2023-05-16T18:37:50Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"addFormRulesColProperties": {
+			"timeStamp": "2023-05-16T16:59:16Z"
+		},
+		"createColumnStateRuleObject": {
+			"timeStamp": "2023-05-16T17:01:13Z"
+		},
+		"createThreeScaleRuleObject": {
+			"timeStamp": "2023-05-16T17:06:11Z"
+		},
+		"addNewState": {
+			"timeStamp": "2023-05-16T17:00:00Z"
+		},
+		"_openDemo": {
+			"timeStamp": "2023-05-16T16:58:09Z"
+		}
+	}
+}
